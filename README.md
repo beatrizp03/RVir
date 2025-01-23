@@ -28,3 +28,8 @@ To answer this, 35 participants completed tasks using each navigation method. Th
 
 These findings highlight the importance of interactivity in VR navigation systems, providing valuable insights for optimizing virtual museum experiences and similar indoor environments.
 
+## Team
+- **Beatriz Paulo** - @beatrizp03 (github)
+- **Leonor Fortes** - @leonorf03 (github)
+- **Beatriz Mendes** - @beasmm (github)
+
