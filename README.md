@@ -1,5 +1,7 @@
 # Evaluating Navigation Techniques for Virtual Reality Museums
 
+Group project developed for the Virtual Reality course at Instituto Superior Técnico in 2024/25.
+
 ## Introduction
 
 This project explores navigation in virtual reality (VR) museum environments, focusing on improving user performance, spatial awareness, and preferences. Navigation, encompassing locomotion and wayfinding, is crucial for intuitive and engaging user experiences. While VR navigation in outdoor settings is well-studied, navigating complex indoor environments like museums remains underexplored.
